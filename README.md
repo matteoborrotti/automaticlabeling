@@ -12,3 +12,5 @@ In particular,  both the performance of LDA and CTM as classification tools, and
 
 # Files
 websiteslist.txt : list of websites used for downloading the texts 
+scrapedTexts_undersampling.csv: corpus example
+The corpus used in the paper can be downloaded at the following link: https://files.sinte.net/topicidentification/scrapedTexts.csv.zip

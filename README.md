@@ -11,6 +11,6 @@ In this work, LDA and CTM are tested and compared in a big data context by analy
 In particular,  both the performance of LDA and CTM as classification tools, and their ability to adapt to modern large corpora of short documents are tested. Moreover, the issue of automatic interpretation of the identified topics is tackled.
 
 # Files
-websiteslist.txt : list of websites used for downloading the texts 
-scrapedTexts_undersampling.csv: corpus example
+websiteslist.txt : list of websites used for downloading the texts \\
+scrapedTexts_undersampling.csv: corpus example \\
 The corpus used in the paper can be downloaded at the following link: https://files.sinte.net/topicidentification/scrapedTexts.csv.zip

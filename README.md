@@ -22,3 +22,5 @@ Code folder contains all the codes (in Python) for reproducing the proposed meth
 - custom_libraries folder contains all the custom functions developed for the work;
 
 - examples folder contains all the Python file for running an example based on distribution-based method and top words-based method.
+
+All the codes are developed and tested by Silvio Gerli and Teresa Cigna. For any enquires about the code please write to silvio.gerli@sinte.net or teresa.cigna@sinte.net.

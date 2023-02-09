@@ -16,3 +16,9 @@ websiteslist.txt : list of websites used for downloading the texts
 scrapedTexts_undersampling.csv: corpus example 
 
 The corpus used in the paper can be downloaded at the following link: https://files.sinte.net/topicidentification/scrapedTexts.csv.zip
+
+Code folder contains all the codes (in Python) for reproducing the proposed methods and results. The folder is organized as follows:
+
+- custom_libraries folder contains all the custom functions developed for the work;
+
+- examples folder contains all the Python file for running an example based on distribution-based method and top words-based method.

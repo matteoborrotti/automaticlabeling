@@ -23,4 +23,6 @@ Code folder contains all the codes (in Python) for reproducing the proposed meth
 
 - examples folder contains all the Python files for running an example based on distribution-based method and top words-based method and for computing all the performance metrics.
 
+Wordclouds folder contains all wordclouds for the 16 latent topics obtained applying LDA and CTM to the original data set.
+
 All the codes are developed and tested by Silvio Gerli and Teresa Cigna. For any enquires about the code please write to silvio.gerli@sinte.net or teresa.cigna@sinte.net.
